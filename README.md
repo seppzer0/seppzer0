@@ -1,4 +1,4 @@
-Bonjoir :wine_glass:
+Bonjour :wine_glass:
 
 - :computer: I am a DevOps engineer with a background in InfoSec, currently exploring DevSecOps.
 - :wrench: I love tinkering, optimizing and automating things. Occasionally, also breaking them.
