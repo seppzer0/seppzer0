@@ -1,6 +1,6 @@
 Bonjour :wine_glass:
 
-- :computer: I am a DevOps engineer with a background in InfoSec, currently exploring DevSecOps.
+- :bust_in_silhouette: I'm a DevOps engineer with a background in InfoSec, currently exploring DevSecOps.
 - :wrench: I love tinkering, optimizing and automating things. Occasionally, also breaking them.
-- :globe_with_meridians: My personal projects are mostly hosted in [GitLab](https://gitlab.com/seppzer0) and mirrored to [GitHub](https://github.com/seppzer0).
-- :pizza: My greatest weakness imaginable is Neapolitan pizza.
+- :floppy_disk: My personal projects are mostly hosted in [GitLab](https://gitlab.com/seppzer0) and mirrored to [GitHub](https://github.com/seppzer0).
+- :pizza: My best food in the world? A slice of Neapolitan pizza, of course.
