@@ -1,6 +1,6 @@
 Bonjour 🍷
 
-<img align="right" height=116 src="https://github-readme-stats.vercel.app/api/top-langs?username=seppzer0&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+<img align="right" height=120 src="https://github-readme-stats.vercel.app/api/top-langs?username=seppzer0&layout=compact&langs_count=8&card_width=320&theme=transparent" />
 
 - 👤 I'm a DevOps engineer with a background in InfoSec, currently exploring DevSecOps.
 - 🔧 I love tinkering, optimizing and automating things. Occasionally, also breaking them.
