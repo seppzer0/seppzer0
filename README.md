@@ -5,4 +5,4 @@ Ah, bonjour 🍷
 - 👤 I'm a DevOps engineer with a background in InfoSec, currently looking into DevSecOps.
 - 🔧 I love tinkering, optimizing and automating things. Sometimes, also disassembling them.
 - 💾 My personal projects are mostly hosted in [GitLab](https://gitlab.com/seppzer0) and mirrored to [GitHub](https://github.com/seppzer0).
-- 🍕 My top food in the world: a slice of Neapolitan pizza, of course.
+- 🍕 My top food in the world: a slice of Neapolitan pizza.
