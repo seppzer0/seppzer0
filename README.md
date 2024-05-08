@@ -1,4 +1,4 @@
-Bonjour 🍷
+Bonjour 🍸
 
 <b><img src="https://raw.githubusercontent.com/seppzer0/seppzer0/main/assets/background.jpeg" /></b>
 
