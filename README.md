@@ -1,4 +1,4 @@
-Bonjour 🍸
+*B o n j o u r* 🍸
 
 <b><img src="https://raw.githubusercontent.com/seppzer0/seppzer0/main/assets/background.jpeg" /></b>
 
