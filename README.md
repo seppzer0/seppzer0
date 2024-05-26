@@ -4,7 +4,8 @@
 
 <p href="https://github.com/seppzer0"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=seppzer0&layout=compact&langs_count=6&card_width=320&theme=transparent" /></p>
 
-- 👤 I'm a DevOps engineer with a background in InfoSec, currently looking into DevSecOps.
+- 👤 I'm a DevOps engineer with a background in InfoSec, currently exploring DevSecOps.
 - 🔧 I'm fond of tinkering, automating and optimizing things; occasionally also disassembling them.
-- 💾 My projects are mainly hosted in [GitLab](https://gitlab.com/seppzer0) and mirrored to [GitHub](https://github.com/seppzer0).
+- 🔌 Most efficient way of understanding new logic is reverse engineering.
+- 💾 My projects are mostly hosted in [GitLab](https://gitlab.com/seppzer0) and mirrored to [GitHub](https://github.com/seppzer0).
 - 🤍 One of my top joys in the world: a slice of Neapolitan pizza.
