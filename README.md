@@ -6,6 +6,6 @@
 
 - 👤 I'm a DevOps engineer with a background in InfoSec, currently exploring DevSecOps.
 - 🔧 I'm fond of tinkering, automating and optimizing things; occasionally also disassembling them.
-- 🔌 Most efficient way of understanding new logic is reverse engineering.
+- ♻️ Most efficient way of understanding new logic is reverse engineering.
 - 💾 My projects are mostly hosted in [GitLab](https://gitlab.com/seppzer0) and mirrored to [GitHub](https://github.com/seppzer0).
 - 🤍 One of my top joys in the world: a slice of Neapolitan pizza.
