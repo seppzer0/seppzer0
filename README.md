@@ -1,4 +1,4 @@
-*B o n j o u r* 🍸
+###  *B o n j o u r* 🍸
 
 <b><img src="https://raw.githubusercontent.com/seppzer0/seppzer0/main/assets/background.jpeg" /></b>
 
@@ -8,4 +8,4 @@
 - 🔧 I'm fond of tinkering, automating and optimizing things; occasionally also disassembling them.
 - ♻️ The most efficient way of understanding new logic is reverse engineering.
 - 💾 My projects are mostly hosted in [GitLab](https://gitlab.com/seppzer0) and mirrored to [GitHub](https://github.com/seppzer0).
-- 🤍 One of my top joys in the world: a slice of Neapolitan pizza.
+- 🤍 One of my top joys in the world — a slice of Neapolitan pizza.
