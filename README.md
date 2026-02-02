@@ -2,7 +2,7 @@
 
 <b><img src="https://raw.githubusercontent.com/seppzer0/seppzer0/main/assets/background.jpg" /></b>
 
-<p href="https://github.com/seppzer0"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=seppzer0&layout=compact&langs_count=6&card_width=320&theme=transparent&border_radius=11&locale=fr&title_color=a277ff" /></p>
+<!-- <p href="https://github.com/seppzer0"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=seppzer0&layout=compact&langs_count=6&card_width=320&theme=transparent&border_radius=11&locale=fr&title_color=a277ff" /></p> -->
 
 ### 🇫🇷 À propos de moi
 
